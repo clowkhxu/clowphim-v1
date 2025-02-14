@@ -42,7 +42,7 @@ function Header() {
                     <NavLink to="/">
                         <img src={logo} />
                     </NavLink>
-                    <h4>PHOFLIX</h4>
+                    <h4>CLOWPHIM</h4>
                 </div>}
             <div
                 style={{ flex: showOnMobile ? 1 : '' }}

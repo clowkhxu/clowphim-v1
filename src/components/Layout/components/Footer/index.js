@@ -22,38 +22,38 @@ function Footer() {
             <div className={styles.footer__row}>
                 <div className={styles.footer__column}>
                     <h3>Về chúng tôi</h3>
-                    <p>PHOFLIX - Được thực hiện bởi Nhan Quốc Việt, là sinh viên Công nghệ thông tin tại trường Đại học Sư phạm Kỹ thuật Vĩnh Long. Trang web đem đến trải nghiệm xem phim mượt mà, không quảng cáo làm phiền. Tận hưởng bộ sưu tập phong phú từ mọi thể loại, không giới hạn, không gò bó. Chỉ cần tập trung vào việc thưởng thức và khám phá, PHOFLIX sẽ lo phần còn lại.</p>
+                    <p>CLOWPHIM - Được thực hiện bởi Nhan Quốc Việt, là sinh viên Công nghệ thông tin tại trường Đại học Sư phạm Kỹ thuật Vĩnh Long. Trang web đem đến trải nghiệm xem phim mượt mà, không quảng cáo làm phiền. Tận hưởng bộ sưu tập phong phú từ mọi thể loại, không giới hạn, không gò bó. Chỉ cần tập trung vào việc thưởng thức và khám phá, PHOFLIX sẽ lo phần còn lại.</p>
                 </div>
                 <div className={styles.footer__column}>
                     <h3>Mạng xã hội</h3>
                     <ul>
                         <li>
-                            <a title='PHOFLIX trên Facebook' href="https://www.facebook.com/PHODEV.2004/" target="_blank">
+                            <a title='CLOWPHIM trên Facebook' href="#" target="_blank">
                                 <i className="fa-brands fa-square-facebook"></i>
                                 <span>Facebook</span>
                             </a>
 
                         </li>
                         <li>
-                            <a title='PHOFLIX trên Instagram' href="https://www.instagram.com/phodziet.04/" target="_blank">
+                            <a title='CLOWPHIM trên Instagram' href="#" target="_blank">
                                 <i className="fa-brands fa-square-instagram"></i>
                                 <span>Instagram</span>
                             </a>
                         </li>
                         <li>
-                            <a title='PHOFLIX trên Github' href="https://github.com/phohoccode/" target="_blank">
+                            <a title='CLOWPHIM trên Github' href="#" target="_blank">
                                 <i className="fa-brands fa-square-github"></i>
                                 <span>Github</span>
                             </a>
                         </li>
                         <li>
-                            <a title='PHOFLIX trên Tiktok' href="https://www.tiktok.com/@phohoccode.04/" target="_blank">
+                            <a title='CLOWPHIM trên Tiktok' href="#" target="_blank">
                                 <i className="fa-brands fa-tiktok"></i>
                                 <span>Tiktok</span>
                             </a>
                         </li>
                         <li>
-                            <a title='PHOFLIX trên Telegram' href="https://t.me/phohoccode_04" target="_blank">
+                            <a title='PHOFLIX trên Telegram' href="#" target="_blank">
                                 <i className="fa-brands fa-telegram"></i>
                                 <span>Telegram</span>
                             </a>
@@ -61,7 +61,7 @@ function Footer() {
                     </ul>
                 </div>
                 <div className={styles.footer__column}>
-                    <h3>Nguồn phim kkphim.com</h3>
+                    <h3>Nguồn phim ở các website</h3>
                     <p>
                         Tất cả nội dung của trang web này đều được tìm kiếm và thu thập ở các trang web phát video trực tuyến chính thống trên Internet, cũng như không cung cấp phát trực tuyến chính hãng.
                         Nếu quyền lợi của bạn bị vi phạm, hãy liên hệ với chúng tôi. Chúng tôi sẽ xử lý và xóa các nội dung liên quan đó kịp thời. Xin cảm ơn!
@@ -90,7 +90,7 @@ function Footer() {
                 </div>
             </div>
             <div className={styles.footer__row}>
-                <p className={styles.footer__copyright}>© 2024 - PHOFLIX. Web xem phim chất lượng, không quảng cáo làm phiền.</p>
+                <p className={styles.footer__copyright}>© 2025 - CLOWPHIM. Web xem phim chất lượng, không quảng cáo làm phiền.</p>
             </div>
         </footer>
     )

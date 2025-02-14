@@ -4,7 +4,7 @@ import Slides from '../../components/Layout/components/Slides'
 
 function Home() {
     useEffect(() => {
-        document.title = 'Chào mừng bạn đến với PHOFLIX! Chúc bạn có trải nghiệm xem phim vui vẻ nhất.'
+        document.title = 'Chào mừng bạn đến với CLOWPHIM! Chúc bạn có trải nghiệm xem phim vui vẻ nhất.'
         window.scrollTo({ top: 0, behavior: 'smooth' })
     }, [])
 
